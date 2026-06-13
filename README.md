@@ -33,6 +33,18 @@ It is useful for students, researchers, engineers, and anyone trying to move fro
 | Study a method | Plain-language explanation plus exact technical structure |
 | Review a paper | Strengths, weaknesses, evidence quality, and threats to validity |
 
+## Showcase
+
+I added a concrete showcase using **Attention Is All You Need**:
+
+| Example | What to look for |
+| --- | --- |
+| [`examples/attention-is-all-you-need/study-notes.md`](examples/attention-is-all-you-need/study-notes.md) | How the skill turns a paper into structured research notes. |
+| [`examples/attention-is-all-you-need/reproduction-plan.md`](examples/attention-is-all-you-need/reproduction-plan.md) | How the skill turns a method into an implementation plan. |
+| [`examples/attention-is-all-you-need/review-memo.md`](examples/attention-is-all-you-need/review-memo.md) | How the skill separates claims, evidence, caveats, and next checks. |
+
+See [`examples/README.md`](examples/README.md) for source links and context.
+
 ## Install
 
 Copy the skill folder into your Codex skills directory:
