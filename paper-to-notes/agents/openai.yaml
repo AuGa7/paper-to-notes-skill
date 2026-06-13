@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper to Notes"
+  short_description: "Turn papers into notes and reproduction plans."
+  default_prompt: "Use $paper-to-notes to analyze this research paper into structured notes, a method breakdown, and a reproduction plan."
